@@ -7,7 +7,7 @@ To run the program you can simply run the following command:
 python recorder.py
 ```
 The program will open a window like this:  
-<img src="Recorder.png" width=610 height=500/>
+<img src="recorder.png" width=610 height=500/>
 
 To edit the GUI you can use Qt Designer. The file `design.ui` is the file that Qt Designer uses to generate the GUI. You can open it with Qt Designer and edit it. Then, you can generate the Python file using the following command:
 ```
